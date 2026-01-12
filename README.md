@@ -1,4 +1,4 @@
-# SplitSmart  - Backend
+
 
 A robust backend REST API for managing shared expenses, groups, and settlements (similar to Splitwise). Built with **Java Spring Boot** and **MySQL**, designed to handle complex splitting logic and automatic balance simplification.
 
